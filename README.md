@@ -1,5 +1,9 @@
-# FirstWork
-This is my first project
+# ***FirstWork :small_red_triangle:***
+### ***:firecracker: This is my first project***
+
+### ***:anchor: Link to my first page :point_right: [Check](https://jrnickson.github.io/FirstWork/)***
+
+<br>
 
 ## ***:raising_hand_man: Hello, my name is @JrNickson***
 ### ***:man_student: I'm studying frontend developer***
@@ -11,4 +15,5 @@ This is my first project
 * ***Gulp :hourglass_flowing_sand:***
 
 
-## ***Here I will post my work 	:floppy_disk:***
+## ***:floppy_disk: Here I will post my work :point_right: [Profile](https://github.com/JrNickson)***
+:computer:
