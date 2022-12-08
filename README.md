@@ -1,5 +1,5 @@
 # ***FirstWork :small_red_triangle:***
-### ***:firecracker: This is my first project***
+### ***:firecracker: This is my first project. Only (Desktop First).***
 
 ### ***:anchor: Link to my first page :point_right: [Check](https://jrnickson.github.io/FirstWork/)***
 
